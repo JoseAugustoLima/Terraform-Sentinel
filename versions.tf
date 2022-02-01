@@ -16,7 +16,7 @@ terraform {
     organization = "hashicorp-se"
 
     workspaces {
-      name = "sentinel-example"
+      name = "Terraform-Sentinel"
     }
   }
 
